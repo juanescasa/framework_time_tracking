@@ -44,3 +44,4 @@ di_process_duration = {process: di_event[di_process_events[process][1]] - \
                        for process in di_process_events}
 
 
+print('Hello world')
