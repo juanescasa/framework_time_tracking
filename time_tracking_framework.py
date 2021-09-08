@@ -14,9 +14,7 @@ import time
 di_event = {}
 #captures the start event and end event of each process. 
 #This definition is automatized in the excel companion book to this project
-di_process_events = {}
 
-di_process_duration = {}
 
 #I add integer to the time account to create a duration of the events because 
 #the steps are very quick. In a real implementation you do not need to add the integers
